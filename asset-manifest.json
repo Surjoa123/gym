@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/gym/static/css/main.dafb1a53.css",
+    "main.js": "/gym/static/js/main.ca4288f3.js",
+    "static/js/787.4159b215.chunk.js": "/gym/static/js/787.4159b215.chunk.js",
+    "static/media/img 8.jpg": "/gym/static/media/img 8.667c3416ab7f90392af3.jpg",
+    "static/media/img1.jpg": "/gym/static/media/img1.ad490fc8acec16e5d41a.jpg",
+    "static/media/img 3.1.jpg": "/gym/static/media/img 3.1.a44304cf172c521d0b39.jpg",
+    "static/media/img 2.jpg": "/gym/static/media/img 2.5a075b600b8f8c10347e.jpg",
+    "static/media/img 4.jpg": "/gym/static/media/img 4.5a7fd9ffaba215312a1e.jpg",
+    "static/media/img3.png": "/gym/static/media/img3.3b762637b787b9836bcd.png",
+    "static/media/img10.jpg": "/gym/static/media/img10.f133dc5b04dcb82d16e5.jpg",
+    "static/media/card1.webp": "/gym/static/media/card1.9ed004ef9869c9f9232e.webp",
+    "static/media/img9.avif": "/gym/static/media/img9.130e1b589a3c9600017d.avif",
+    "static/media/card2.png": "/gym/static/media/card2.740890b0425c6aec6b18.png",
+    "static/media/card3.png": "/gym/static/media/card3.872b1b78012c40dd051b.png",
+    "static/media/tickk.png": "/gym/static/media/tickk.dacd0e937f1185a2e8dd.png",
+    "static/media/logo.avif": "/gym/static/media/logo.3fb5213177dbb8cb8641.avif",
+    "static/media/instagram.png": "/gym/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/card4.webp": "/gym/static/media/card4.218a2e7d79d9cf6603c6.webp",
+    "static/media/facebook.webp": "/gym/static/media/facebook.7adffae62ed4031b6b5c.webp",
+    "static/media/CaloriesChart.webp": "/gym/static/media/CaloriesChart.5cd1b18e9e18e4932c5c.webp",
+    "static/media/plan2.png": "/gym/static/media/plan2.506b7331320b9b2ad2e3.png",
+    "static/media/plan3.png": "/gym/static/media/plan3.cc96c005a68e3535ab92.png",
+    "index.html": "/gym/index.html",
+    "main.dafb1a53.css.map": "/gym/static/css/main.dafb1a53.css.map",
+    "main.ca4288f3.js.map": "/gym/static/js/main.ca4288f3.js.map",
+    "787.4159b215.chunk.js.map": "/gym/static/js/787.4159b215.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dafb1a53.css",
+    "static/js/main.ca4288f3.js"
+  ]
+}
